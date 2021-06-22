@@ -24,5 +24,5 @@ There are no any known bugs
 * kuyamaxmillan@gmail.com
 * moringa school
 ### License
-**licence ([ MIT LICENSE])
+* ([ MIT LICENSES]) *
 Copyright (c) 2021 **Maxmillan Kuya**
