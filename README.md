@@ -11,7 +11,7 @@ This is a website about the Delani Studios, how the operate on day to day life a
 ## Known Bugs
 There are no any known bugs
 ## BBB
-* Users to enter required credential 
+* Users to enter required credential
 * form to be filled
 * Dialog box with name and email
 ## Technologies Used
@@ -24,5 +24,4 @@ There are no any known bugs
 * kuyamaxmillan@gmail.com
 * moringa school
 ### License
-* ([ MIT LICENSES]) *
 Copyright (c) 2021 **Maxmillan Kuya**
