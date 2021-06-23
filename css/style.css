@@ -71,8 +71,37 @@ h5{
     display: none;
     border: 1px solid red;
 }
-.img-fluid:hover{
+#one:hover{
     background-color: white;
+    opacity: 0.3;
+}
+#two:hover{
+    background-color: white;
+    opacity: 0.3;
+}
+#three:hover{
+    background-color: white;
+    opacity: 0.3;
+}
+#four:hover{
+    background-color: white;
+    opacity: 0.3;
+}
+#five:hover{
+    background-color: white;
+    opacity: 0.3;
+}
+#six:hover{
+    background-color: white;
+    opacity: 0.3;
+}
+#seven:hover{
+    background-color: white;
+    opacity: 0.3;
+}
+#eight:hover{
+    background-color: white;
+    opacity: 0.3;
 }
 #prod-contentt{
     display: none;
@@ -82,4 +111,10 @@ h5{
 }
 #contentt{
     display: none;
+}
+.project p{
+    position: relative;
+    font-size: 30px;
+    top:100%;
+    text-align: center;
 }
