@@ -31,6 +31,35 @@ body{
 h2{
     text-align: center;
 }
+.contact{
+    background-image: url(/images/IP3-master/assets/backgrounds/c_image.jpg);
+    padding: 100px;
+    background-size: cover;
+    }
+h5{
+    color: white;
+}
+.nice{
+    text-align: center;
+}
+.btn{
+    color: white;
+    background-color: blueviolet;
+}
+.control{
+    background: transparent;
+    color: white;
+}
+#controls{
+    background: transparent;
+    color: white;
+}
 .footer{
+    text-align: center;
+}
+.we{
+    text-align: center;
+}
+.col-md-4{
     text-align: center;
 }
