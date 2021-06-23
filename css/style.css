@@ -82,61 +82,6 @@ h5 {
     color: white;
 }
 
-#maxmillan {
-    color: blue;
-    display: none;
-    border: 1px solid red;
-}
-
-#one:hover {
-    background-color: white;
-    opacity: 0.3;
-    position: relative;
-}
-
-#two:hover {
-    background-color: white;
-    opacity: 0.3;
-    position: relative;
-}
-
-#three:hover {
-    background-color: white;
-    opacity: 0.3;
-    position: relative;
-}
-
-#four:hover {
-    background-color: white;
-    opacity: 0.3;
-    position: relative;
-}
-
-#five:hover {
-    background-color: white;
-    opacity: 0.3;
-    position: relative;
-}
-
-#six:hover {
-    background-color: white;
-    opacity: 0.3;
-    position: relative;
-}
-
-#seven:hover {
-    background-color: white;
-    opacity: 0.3;
-    position: relative;
-}
-
-#eight:hover {
-    background-color: white;
-    opacity: 0.3;
-    position: relative;
-    display: list-item;
-}
-
 #prod-contentt {
     display: none;
 }
@@ -149,34 +94,13 @@ h5 {
     display: none;
 }
 
-.project p {
-    position: relative;
-    font-size: 30px;
-    top: 100%;
-    text-align: center;
+.blue:hover img {
+    transform: scale(1.1);
+    transition: all 0.4s ease-out;
 }
 
-#mmm,
-#ccc,
-#nnn,
-#uuu {
-    display: none;
-}
-
-#ll,
-#mm,
-#xx,
-#an {
-    display: none;
-}
-
-#portfolio {
-    margin-right: 16px;
-    margin-left: 8%;
-}
-
-.text {
-    color: black;
+.paragraph {
+    color: white;
     font-weight: bold;
     position: relative;
     top: -10rem;
@@ -184,4 +108,21 @@ h5 {
     border: 2px solid;
     border-radius: 20px;
     box-shadow: 3px 3px 2px black;
+    width: 40%;
+    text-align: center;
+    opacity: 0;
 }
+
+.paragraph:hover {
+    opacity: 1;
+}
+
+.menu-flex {
+    display: flex;
+}
+
+
+/* #portfolio {
+    margin-right: 16px;
+    margin-left: 8%;
+} */

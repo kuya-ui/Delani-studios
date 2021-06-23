@@ -1,4 +1,3 @@
-
 // $(document).ready(function(){
 //     $("#main").mouseover(function(){
 //         $("#maxmillan").show();
@@ -9,21 +8,30 @@
 //         $("maxmillan").hide();
 //     });
 // });
-$(document).ready(function(){
-    $(".image3").click(function(){
+$(document).ready(function() {
+    $(".image3").click(function() {
         $("#product").slideToggle();
         $("#prod-contentt").slideToggle();
     });
 });
-$(document).ready(function(){
-    $(".image1").click(function(){
+$(document).ready(function() {
+    $(".image1").click(function() {
         $("#design1").slideToggle();
         $("#contentt").slideToggle();
     });
 });
-$(document).ready(function(){
-    $(".image2").click(function(){
+$(document).ready(function() {
+    $(".image2").click(function() {
         $("#dev").slideToggle();
         $("#dev-contentt").slideToggle();
     });
 });
+
+function max() {
+    let control = document.getElementById('controls').value;
+    if (control == "") {
+        alert("invalid response");
+    } else {
+        alert("We have received your message. Thank you fro reaching out to us")
+    };
+};
