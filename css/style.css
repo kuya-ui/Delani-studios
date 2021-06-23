@@ -63,6 +63,9 @@ h5{
 .col-md-4{
     text-align: center;
 }
+::placeholder{
+    color: white;
+}
 #maxmillan{
     color: blue;
     display: none;
