@@ -24,4 +24,5 @@ There are no any known bugs
 * kuyamaxmillan@gmail.com
 * moringa school
 ### License
+*{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) 2021 **Maxmillan Kuya**
