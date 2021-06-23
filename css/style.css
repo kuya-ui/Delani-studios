@@ -28,6 +28,9 @@ body{
     height: 150%;
     padding: 100px;
 }
+h2{
+    text-align: center;
+}
 .footer{
     text-align: center;
 }
