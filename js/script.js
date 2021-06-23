@@ -15,3 +15,15 @@ $(document).ready(function(){
         $("#prod-contentt").slideToggle();
     });
 });
+$(document).ready(function(){
+    $(".image1").click(function(){
+        $("#design1").slideToggle();
+        $("#contentt").slideToggle();
+    });
+});
+$(document).ready(function(){
+    $(".image2").click(function(){
+        $("#dev").slideToggle();
+        $("#dev-contentt").slideToggle();
+    });
+});
