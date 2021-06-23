@@ -1,11 +1,13 @@
-*{
+* {
     margin: 0;
     padding: 0;
 }
-body{
+
+body {
     background-color: white
 }
-.top{
+
+.top {
     background-image: url(/images/IP3-master/assets/backgrounds/h_img.jpg);
     background-size: cover;
     text-align: center;
@@ -13,108 +15,173 @@ body{
     margin: 10px;
     padding: 80px;
 }
-.logo{
+
+.logo {
     margin-top: 10px;
     margin-bottom: 22px;
     width: 60px;
     height: 60px;
 }
-.about{
-}
-.services{
+
+.about {}
+
+.services {
     background-image: url(/images/IP3-master/assets/backgrounds/s_image.jpg);
     color: white;
     text-align: center;
     height: 150%;
     padding: 100px;
 }
-h2{
+
+h2 {
     text-align: center;
 }
-.contact{
+
+.contact {
     background-image: url(/images/IP3-master/assets/backgrounds/c_image.jpg);
     padding: 100px;
     background-size: cover;
-    }
-h5{
-    color:white;
 }
-.nice{
+
+h5 {
+    color: white;
+}
+
+.nice {
     text-align: center;
 }
-.btn{
+
+.btn {
     color: white;
     background-color: blueviolet;
 }
-.control{
+
+.control {
     background: transparent;
     color: white;
 }
-#controls{
+
+#controls {
     background: transparent;
     color: white;
 }
-.footer{
+
+.footer {
     text-align: center;
 }
-.we{
+
+.we {
     text-align: center;
 }
-.col-md-4{
+
+.col-md-4 {
     text-align: center;
 }
-::placeholder{
+
+::placeholder {
     color: white;
 }
-#maxmillan{
+
+#maxmillan {
     color: blue;
     display: none;
     border: 1px solid red;
 }
-#one:hover{
+
+#one:hover {
     background-color: white;
     opacity: 0.3;
+    position: relative;
 }
-#two:hover{
+
+#two:hover {
     background-color: white;
     opacity: 0.3;
+    position: relative;
 }
-#three:hover{
+
+#three:hover {
     background-color: white;
     opacity: 0.3;
+    position: relative;
 }
-#four:hover{
+
+#four:hover {
     background-color: white;
     opacity: 0.3;
+    position: relative;
 }
-#five:hover{
+
+#five:hover {
     background-color: white;
     opacity: 0.3;
+    position: relative;
 }
-#six:hover{
+
+#six:hover {
     background-color: white;
     opacity: 0.3;
+    position: relative;
 }
-#seven:hover{
+
+#seven:hover {
     background-color: white;
     opacity: 0.3;
+    position: relative;
 }
-#eight:hover{
+
+#eight:hover {
     background-color: white;
     opacity: 0.3;
+    position: relative;
+    display: list-item;
 }
-#prod-contentt{
+
+#prod-contentt {
     display: none;
 }
-#dev-contentt{
+
+#dev-contentt {
     display: none;
 }
-#contentt{
+
+#contentt {
     display: none;
 }
-.project p{
+
+.project p {
     position: relative;
     font-size: 30px;
-    top:100%;
+    top: 100%;
     text-align: center;
+}
+
+#mmm,
+#ccc,
+#nnn,
+#uuu {
+    display: none;
+}
+
+#ll,
+#mm,
+#xx,
+#an {
+    display: none;
+}
+
+#portfolio {
+    margin-right: 16px;
+    margin-left: 8%;
+}
+
+.text {
+    color: black;
+    font-weight: bold;
+    position: relative;
+    top: -10rem;
+    left: 5rem;
+    border: 2px solid;
+    border-radius: 20px;
+    box-shadow: 3px 3px 2px black;
 }
