@@ -11,19 +11,19 @@
 $(document).ready(function() {
     $(".image3").click(function() {
         $("#product").slideToggle();
-        $("#prod-content").slideToggle();
+        $("#prod-contentt").slideToggle();
     });
 });
 $(document).ready(function() {
     $(".image1").click(function() {
         $("#design1").slideToggle();
-        $("#content").slideToggle();
+        $("#contentt").slideToggle();
     });
 });
 $(document).ready(function() {
     $(".image2").click(function() {
         $("#dev").slideToggle();
-        $("#dev-content").slideToggle();
+        $("#dev-contentt").slideToggle();
     });
 });
 
