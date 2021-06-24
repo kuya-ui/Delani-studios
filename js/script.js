@@ -11,7 +11,7 @@
 $(document).ready(function() {
     $(".image3").click(function() {
         $("#product").slideToggle();
-        $("#prod-contentt").slideToggle();
+        $("#prod-content").slideToggle();
     });
 });
 $(document).ready(function() {
