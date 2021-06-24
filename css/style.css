@@ -24,8 +24,9 @@ body {
 }
 
 .services {
-    background-image: url(/images/IP3-master/assets/backgrounds/s_image.jpg);
+    background-image: url('../images/IP3-master/assets/backgrounds/s_image.jpg');
     color: white;
+    height: 100vh;
     text-align: center;
     height: 150%;
     padding: 100px;
@@ -36,7 +37,7 @@ h2 {
 }
 
 .contact {
-    background-image: url(/images/IP3-master/assets/backgrounds/c_image.jpg);
+    background-image: url('../images/IP3-master/assets/backgrounds/c_image.jpg');
     padding: 100px;
     background-size: cover;
 }
