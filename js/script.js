@@ -17,13 +17,13 @@ $(document).ready(function() {
 $(document).ready(function() {
     $(".image1").click(function() {
         $("#design1").slideToggle();
-        $("#contentt").slideToggle();
+        $("#content").slideToggle();
     });
 });
 $(document).ready(function() {
     $(".image2").click(function() {
         $("#dev").slideToggle();
-        $("#dev-contentt").slideToggle();
+        $("#dev-content").slideToggle();
     });
 });
 
